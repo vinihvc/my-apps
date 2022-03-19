@@ -8,10 +8,10 @@ Run the `apps.ps1` script to install the packages.
 
 ### Dev
 
-- Windows Terminal
+- Windows Terminal - [settings.json](https://gist.github.com/vinihvc/48621760311bac6af16851c611992295)
 - Visual Studio Code
 - Git
-- Ubuntu 20.04
+- Ubuntu 20.04 - [.zshrc](https://gist.github.com/vinihvc/cabb649eb922261933123970f623fd1e)
 
 ### Browser
 
