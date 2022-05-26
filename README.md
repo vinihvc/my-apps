@@ -30,11 +30,16 @@ Run the `apps.ps1` script to install the packages.
 - Comunication
 
   - Discord
+  - Slack
 
 - Tools
 
   - Authy
   - Dropbox
+
+- Gaming
+
+  - Steam
 
 # More
 

@@ -34,7 +34,11 @@ $myApps = @(
 'Dropbox.Dropbox',
 
 # Comunication
-'Discord.Discord'
+'Discord.Discord',
+'SlackTechnologies.Slack',
+
+# Gaming
+'Valve.Steam'
 )
 
 $myApps | ForEach-Object -Process { winget install -e --id $_ }
